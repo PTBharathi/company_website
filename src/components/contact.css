@@ -1,0 +1,76 @@
+
+.contact-form-wrap .form-group {
+    padding-bottom: 15px;
+    margin: 0px;
+  }
+  .contact-form-wrap .form-group .form-control {
+    background: #f5f8f9;
+    height: 48px;
+    border: 1px solid #EEF2F6;
+    box-shadow: none;
+    width: 100%;
+  }
+  .contact-form-wrap .form-group-2 {
+    margin-bottom: 13px;
+  }
+  .contact-form-wrap .form-group-2 textarea {
+    background: #f5f8f9;
+    height: 135px;
+    border: 1px solid #EEF2F6;
+    box-shadow: none;
+    width: 100%;
+  }
+  .bg-1{
+    background: url('./contact-bg.jpeg') no-repeat 50% 50%;
+    background-size: cover;
+  }
+  .btn {
+    display: inline-block;
+    font-size: 14px;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    padding: 1rem 2.5rem 0.8rem;
+    text-transform: uppercase;
+    border-radius: 0;
+    transition: 0.3s;
+  }
+  .btn.btn-icon i {
+    font-size: 16px;
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+  .btn:focus {
+    outline: 0px;
+    box-shadow: none;
+  }
+  
+  .btn-main, .btn-small, .btn-transparent {
+    background: rgb(247, 87, 87);
+    color: #fff;
+    transition: all 0.2s ease;
+  }
+  .btn-main:hover, .btn-small:hover, .btn-transparent:hover {
+    background: #f52626;
+    color: #fff;
+  }
+  
+  .btn-solid-border {
+    border: 2px solid rgb(247, 87, 87);
+    background: transparent;
+    color: #242424;
+  }
+  .btn-solid-border:hover {
+    border: 2px solid rgb(247, 87, 87);
+    background: rgb(247, 87, 87);
+  }
+  
+  .btn-transparent {
+    background: transparent;
+    padding: 0;
+    color: rgb(247, 87, 87);
+  }
+  .btn-transparent:hover {
+    background: transparent;
+    color: rgb(247, 87, 87);
+  }
+  
