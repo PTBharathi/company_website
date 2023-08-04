@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/company_website/static/css/main.04ffa8bb.css",
+    "main.js": "/company_website/static/js/main.2e1e5bc0.js",
+    "static/js/787.bc84a537.chunk.js": "/company_website/static/js/787.bc84a537.chunk.js",
+    "static/media/contact-bg.jpeg": "/company_website/static/media/contact-bg.2e8a66ebb8d120e43ff4.jpeg",
+    "static/media/about-2.jpg": "/company_website/static/media/about-2.a0c489affefd5b07c1bc.jpg",
+    "static/media/about.jpg": "/company_website/static/media/about.0122e15433176d677cb3.jpg",
+    "static/media/1.svg": "/company_website/static/media/1.b850e73f0f711cf57c42.svg",
+    "static/media/books-3.jpg": "/company_website/static/media/books-3.3bd107d524d9950d84f3.jpg",
+    "static/media/product-2.jpg": "/company_website/static/media/product-2.e03676392c46a11a43b5.jpg",
+    "static/media/books-1.jpg": "/company_website/static/media/books-1.0cdba8895456d133d483.jpg",
+    "static/media/branding-3.jpg": "/company_website/static/media/branding-3.b7db10edbeaf1b2636f1.jpg",
+    "static/media/app-2.jpg": "/company_website/static/media/app-2.6da4d40f3db54f106a2d.jpg",
+    "static/media/app-1.jpg": "/company_website/static/media/app-1.802eed785283b8b9771e.jpg",
+    "static/media/product-1.jpg": "/company_website/static/media/product-1.3975dff84a3e21a541e2.jpg",
+    "static/media/books-2.jpg": "/company_website/static/media/books-2.e35be653c50c959ede7b.jpg",
+    "static/media/branding-2.jpg": "/company_website/static/media/branding-2.fb2f2584ecb4a3699148.jpg",
+    "static/media/app-3.jpg": "/company_website/static/media/app-3.1328908345eb07514079.jpg",
+    "static/media/branding-1.jpg": "/company_website/static/media/branding-1.998d6e9893f2fbaedd76.jpg",
+    "static/media/hero-img.png": "/company_website/static/media/hero-img.14dc8f7a4d4b3edb0402.png",
+    "static/media/product-3.jpg": "/company_website/static/media/product-3.74bf18a3643851c49388.jpg",
+    "static/media/logo.svg": "/company_website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/company_website/index.html",
+    "main.04ffa8bb.css.map": "/company_website/static/css/main.04ffa8bb.css.map",
+    "main.2e1e5bc0.js.map": "/company_website/static/js/main.2e1e5bc0.js.map",
+    "787.bc84a537.chunk.js.map": "/company_website/static/js/787.bc84a537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ffa8bb.css",
+    "static/js/main.2e1e5bc0.js"
+  ]
+}
